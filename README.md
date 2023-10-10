@@ -1,22 +1,13 @@
-@@ -1,44 +1,44 @@
-<h1 align="center">Hello! I'm Anna Malinovskaia</h1>
-<h4 align="center">🪲 QA Engineer | 🤝 People managment | 🎤 Speaker</h4>
+
+<h1 align="center">Привет!Я Романова Лидия</h1>
+<h4 align="center">🪲 Начинающий QA-инженер</h4>
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
  -->
  
-<p align="center">
-    <a align="center" href="https://github.com/ellerbrock/open-source-badges/"><img align="center" alt="Open Source Love"
-                                                                     src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-     <a align="center" href="https://twitter.com/tacitcoast"><img align="center" alt="Twitter"
-                                                                                   src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"width="7%"></a>
-    <a align="center" href="https://github.com/tacitcoast/Ozon-new-skills/watchers"><img align="center" alt="GitHub watchers"
-                                                                                   src="https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000"width="10%"></a>
-    <a align="center" href="https://www.tinkoff.ru/sl/QCXNqs9FA"><img align="center" alt="saythanks"
-                                                                         src="https://img.shields.io/badge/say-thanks-ff69b4.svg"></a>
-                                                                        
+<p align="center">                                                                                                                                   
 </p>
----
+
 <a href="https://www.linkedin.com/in/anmalinovskaia/"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
                                                   width="25%"/></a>
 <!-- Any image aligned to the right. Beware the width
@@ -24,9 +15,8 @@
 -->
 <a href="https://tacitcoast.github.io/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
-- I'm a **QA Engineer** and Professional Google searcher. <br>
-My job is to investigate various services and features and identify errors in their work as early as possible. <br>
-- I like to teach others, be a Mentor and create something new, so if you have tasks or a product that I could help you with, please write me ✏️ <br>
+                                                  
+- В тестировании я нашла ту самую золотую середину между творчеством и технологиями. Мне нравится  изобретать и прорабатывать различные сценарии работы, искать уязвимости и эмулировать поведение пользователя данного ПО ✏️ <br>
 
 - <a align="left">My <a href="https://tacitcoast.github.io/">WebSite</a> <br>
   My <a href="https://miro.com/app/board/uXjVPBkh9Mw=/?share_link_id=47505486290">Checklists Portfolio</a> <br>
