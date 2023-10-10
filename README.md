@@ -18,10 +18,10 @@
                                                   
 - В тестировании я нашла ту самую золотую середину между творчеством и технологиями. Мне нравится  изобретать и прорабатывать различные сценарии работы, искать уязвимости и эмулировать поведение пользователя данного ПО ✏️ <br>
 
-- <a align="left">My <a href="https://tacitcoast.github.io/">WebSite</a> <br>
-  My <a href="https://miro.com/app/board/uXjVPBkh9Mw=/?share_link_id=47505486290">Checklists Portfolio</a> <br>
-  <a align="left">Telegram: <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
-  <a align="left">Telegram: <a href="https://t.me/tacitcoast">@tacitcoast</a>
+- <a align="left">My <a href="mailto:lidiyam.romanova@gmail.com">Email</a> <br>
+ 
+-  <a align="left">Telegram: <a href="https://t.me/Lidochka_R">@Lidochka_R</a>
+
 
 
 <!-- Any image aligned to the left. Beware the width
